@@ -10,7 +10,7 @@
   <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Davi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Davi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://instagram.fpnz3-1.fna.fbcdn.net/v/t51.2885-19/314997798_520186113091583_8929335028481615153_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fpnz3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=OIuDmZc6fIoAX_XSLy9&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfB16kPutmMB66T_KKY23MuJqHWm8-yjCyAsLM4HexAidA&oe=63A5D217&_nc_sid=8fd12b?width=676&height=676">
+  <img align="right" alt="Davi-pic" height="150" style="border-radius:50px;" src="https://fla-bucket-s3-us.s3.amazonaws.com/public/images/artigos/27105/1523563568.png?width=676&height=676">
 </div>
 
  ##
